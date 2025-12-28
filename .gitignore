@@ -1,0 +1,12 @@
+.cache/
+.idea/
+build/
+.DS_Store
+*.tar.zst
+zarf-sbom
+tmp/
+zarf-config.yaml
+*.tar
+uds-config.yaml
+certs/** 
+grafana

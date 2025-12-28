@@ -1,0 +1,8 @@
+kind: UDSBundle
+metadata:
+  name: core-logging
+  version: 0.56.0
+packages:
+  - name: "logging"
+    repository: ghcr.io/defenseunicorns/packages/private/uds/core-logging
+    ref: 0.56.0-unicorn
